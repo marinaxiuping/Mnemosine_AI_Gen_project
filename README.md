@@ -2,6 +2,8 @@
 
 Agente conversacional experto en **mitología griega**, construido con **RAG** (Retrieval-Augmented Generation), **Google Gemini**, **ChromaDB** y **LangGraph**, con memoria de conversación.
 
+**App pública:** [mnemosine.streamlit.app](https://mnemosine.streamlit.app/)
+
 > *Mnemósine* es la titánide de la memoria y la madre de las nueve Musas. El nombre encaja con un agente cuyo valor está en **recordar**: sus fuentes y la conversación.
 
 ---
